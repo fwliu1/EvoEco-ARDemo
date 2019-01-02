@@ -17,7 +17,7 @@ To open project: <br/>
 Current image target: https://timedotcom.files.wordpress.com/2018/03/rocks-students-armed.jpg?quality=85
 <br/>
 Print out to try it out
-
+<br/>
 <br/>
 To change image target, follow these instructions:
 <br/>
