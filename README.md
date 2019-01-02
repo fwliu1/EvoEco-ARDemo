@@ -12,3 +12,15 @@ To open project: <br/>
 2) Navigate Assets->Scenes->Sample Scene <br/>
 3) Make sure your webcam is enabled <br/>
 4) Press play
+
+<br/>
+Current image target: https://timedotcom.files.wordpress.com/2018/03/rocks-students-armed.jpg?quality=85
+<br/>
+Print out to try it out
+
+<br/>
+To change image target, follow these instructions:
+<br/>
+https://library.vuforia.com/articles/Training/getting-started-with-vuforia-in-unity.html
+<br/>
+https://medium.com/@devdevcharlie/how-to-create-augmented-reality-posters-with-unity-vuforia-ec80a82e6d51
