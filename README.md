@@ -14,9 +14,10 @@ To open project: <br/>
 4) Press play
 
 <br/>
-Current image target: https://timedotcom.files.wordpress.com/2018/03/rocks-students-armed.jpg?quality=85
+To try this on your own, please feel free to print out the rocks image targets
 <br/>
-Print out to try it out
+Current image target: https://timedotcom.files.wordpress.com/2018/03/rocks-students-armed.jpg?quality=85
+
 <br/>
 <br/>
 To change image target, follow these instructions:
